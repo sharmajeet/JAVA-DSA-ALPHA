@@ -8,7 +8,6 @@ public class StudentDetails {
             System.out.println("Student Id : " + id[i]);
             System.out.println("Student Marks : " + marks[i]);
             System.out.println("");
-            
 
         }
     }
@@ -26,12 +25,11 @@ public class StudentDetails {
             System.out.print("Enter student id :");
             id[i] = sc.nextInt();
 
-
             System.out.print("Enter student marks :");
             marks[i] = sc.nextInt();
             sc.nextLine();
             System.out.println();
-            
+
         }
         details(id, name, marks);
     }
