@@ -22,7 +22,7 @@ public class SubArray {
     }
 
     public static void main(String[] args) {
-        int array[] = { 2, 4, 6, 8, 10 };
+        int array[] = { -2,-3,4,-1,-2,1,5,-3};
         subArray(array);
     }
 }
