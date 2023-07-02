@@ -33,3 +33,30 @@ public class GFG1_Reverse_Array{
         
        }
 }
+// public class GFG1_Reverse_Array{
+//     public static void reverse(int array[]) {
+//         int start = 0 ;
+//         int end = array.length-1;
+//         while(start < end){
+//             int temp = array[start];
+//             array[start]=array[end];
+//             array[end]= temp;
+
+//             start ++ ;
+//             end --;
+//         }
+        
+//     }
+//     public static void print(int array[]) {
+//         for(int i=0;i<array.length;i++){
+//             System.out.print(array[i] + " ");
+//         }
+//         System.out.println();
+//     }
+//     public static void main(String[] args) {
+//         System.out.print("Reversed Array : ");
+//         int array[] = {5,4,3,2,1};
+//         reverse(array);
+//         print(array);
+//     }
+// }
