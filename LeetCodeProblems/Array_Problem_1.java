@@ -9,6 +9,7 @@
 // Example 2:
 // Input: nums = [3,2,4], target = 6
 // Output: [1,2]
+package LeetCodeProblems;
 import java.util.*;
 
 public class Array_Problem_1 {

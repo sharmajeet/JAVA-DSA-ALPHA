@@ -1,3 +1,4 @@
+package LeetCodeProblems;
 import java.util.Scanner;
 
 public class GFG1_Reverse_Array{
